@@ -1,0 +1,7 @@
+torch
+torchsummary
+torchvision
+tqdm
+numpy
+pandas
+wandb
