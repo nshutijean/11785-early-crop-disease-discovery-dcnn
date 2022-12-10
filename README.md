@@ -21,3 +21,20 @@ The code is structured as follows:
 - `requirements.txt`: The requirements for the project.
 - `Project_Crop_disease.ipynb`: The notebook containing the code for the project.
 
+## **How to run the code**
+To run the code, you will need to install the requirements using the following command:
+```
+pip install -r requirements.txt
+```
+Then, you can run the code in the `Project_Crop_disease.ipynb` notebook.
+<!-- 
+## **How to run the model**
+To run the model, you will need to install the requirements using the following command:
+```
+pip install -r requirements.txt
+```
+Then, you can run the model using the following command:
+```
+python model.py -->
+
+
