@@ -1,5 +1,10 @@
 # Early crop disease discovery using leaf symptom images on a basis of Deep Convolutional Neural Networks
 
+## **Team**
+- [Cyriaque Zirimwabagabo](https://github.com/zcyrique)
+- [Heredion Nzabanita](https://github.com/heredionN)
+- [Sylvan Ntivuguruzwa](https://github.com/Sylvan-Ntivuguruzwa)
+
 ## **Description**
 This model uses deep convolutional neural networks to detect early signs of crop diseases based on images of the plants' leaves. By analyzing the symptoms of the disease in the leaf images, the model is able to identify potential issues and alert farmers, allowing them to take action to prevent further spread of the disease and protect their crops. This can be an important tool for farmers, as early detection and intervention can help prevent significant losses.
 
