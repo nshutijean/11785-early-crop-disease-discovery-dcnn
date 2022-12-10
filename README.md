@@ -22,10 +22,17 @@ The code is structured as follows:
 - `Project_Crop_disease.ipynb`: The notebook containing the code for the project.
 
 ## **How to run the code**
-To run the code, you will need to install the requirements using the following command:
+To run the code, you will need to create an environment and install the requirements using the following command:
 ```
+conda create --name <env> --file requirements.txt
+```
+or
+```
+python -m venv <env>
+source <env>/bin/activate
 pip install -r requirements.txt
 ```
+
 Then, you can run the code in the `Project_Crop_disease.ipynb` notebook.
 <!-- 
 ## **How to run the model**
