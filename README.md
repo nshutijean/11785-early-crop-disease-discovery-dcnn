@@ -27,7 +27,14 @@ The code is structured as follows:
 - `Project_Crop_disease.ipynb`: The notebook containing the code for the project.
 
 ## **How to run the code**
-To run the code, you will need to create an environment and install the requirements using the following command:
+To run the code, you will need to create an environment and install the requirements using the following:
+
+Open the notebook in Colab by clicking on the badge below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nshutijean/11785-early-crop-disease-discovery-dcnn/blob/main/Project_Crop_disease.ipynb)
+
+or
+
 ```
 conda create --name <env> --file requirements.txt
 ```
